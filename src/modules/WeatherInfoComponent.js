@@ -4,7 +4,6 @@ import {WeatherIcons} from "../App";
 
 export const WeatherInfoIcons = {
     Temperature: "/react-weather-app/icons/Temperature.svg",
-    sunrise: "/react-weather-app/icons/Temperature.svg",
     Humidity: "/react-weather-app/icons/humidity.svg",
     Wind: "/react-weather-app/icons/wind.svg",
     pressure: "/react-weather-app/icons/pressure.svg",
