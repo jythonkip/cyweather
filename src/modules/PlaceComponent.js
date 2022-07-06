@@ -44,7 +44,7 @@ const PlaceComponent = (props) => {
   const {  updatelong, updatelat,fetchWeather } = props;
   return (
     <>
-      <WelcomeWeatherLogo src={"/react-weather-app/icons/perfect-day.svg"} />
+      <WelcomeWeatherLogo src={"/icons/perfect-day.svg" } />
       <ChoosePlaceLabel>Find Weather of location</ChoosePlaceLabel>
 
      <input
@@ -53,7 +53,7 @@ const PlaceComponent = (props) => {
         /> 
         <input
           onChange={(e) => updatelat(e.target.value)}
-          placeholder="Enter latiude in degrees"
+          placeholder="Enter latitude in degrees"
         />
 
       <SearchBox onSubmit={fetchWeather}>
