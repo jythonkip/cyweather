@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cy-weather-app/static/css/main.4064664c.chunk.css",
+    "main.js": "/cy-weather-app/static/js/main.eca2cda2.chunk.js",
+    "main.js.map": "/cy-weather-app/static/js/main.eca2cda2.chunk.js.map",
+    "runtime-main.js": "/cy-weather-app/static/js/runtime-main.75bd7903.js",
+    "runtime-main.js.map": "/cy-weather-app/static/js/runtime-main.75bd7903.js.map",
+    "static/js/2.af158295.chunk.js": "/cy-weather-app/static/js/2.af158295.chunk.js",
+    "static/js/2.af158295.chunk.js.map": "/cy-weather-app/static/js/2.af158295.chunk.js.map",
+    "index.html": "/cy-weather-app/index.html",
+    "static/css/main.4064664c.chunk.css.map": "/cy-weather-app/static/css/main.4064664c.chunk.css.map",
+    "static/js/2.af158295.chunk.js.LICENSE.txt": "/cy-weather-app/static/js/2.af158295.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75bd7903.js",
+    "static/js/2.af158295.chunk.js",
+    "static/css/main.4064664c.chunk.css",
+    "static/js/main.eca2cda2.chunk.js"
+  ]
+}
